@@ -7,7 +7,6 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  base: '/Portfolio/',
   assetsInclude: ['**/*.pdf'],
 })
-
-
