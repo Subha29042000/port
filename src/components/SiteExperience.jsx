@@ -1,15 +1,15 @@
 const jobs = [
-  {
-    company: "RR IT Solutions",
-    role: "Frontend Developer",
-    location: "Chennai, Tamil Nadu",
-    period: "Mar 2025 - Present",
-    points: [
-      "Built CRM modules with React and REST APIs.",
-      "Created reusable components and improved performance.",
-      "Designed responsive dashboards for sales and customer data.",
-    ],
-  },
+  // {
+  //   company: "RR IT Solutions",
+  //   role: "Frontend Developer",
+  //   location: "Chennai, Tamil Nadu",
+  //   period: "Mar 2025 - Present",
+  //   points: [
+  //     "Built CRM modules with React and REST APIs.",
+  //     "Created reusable components and improved performance.",
+  //     "Designed responsive dashboards for sales and customer data.",
+  //   ],
+  // },
   {
     company: "Cloute Technologies Pvt. Ltd.",
     role: "Associate Frontend Developer",
